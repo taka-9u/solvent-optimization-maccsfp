@@ -17,7 +17,7 @@ superior to the previously reported optimal solvent (99% vs 72% yield).
 ## Repository layout
 
 ```
-solvent-optimization-maccs/
+solvent-optimization-maccsfp/
 ├── README.md
 ├── LICENSE
 ├── environment.yml
