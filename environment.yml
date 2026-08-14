@@ -1,0 +1,17 @@
+name: chemoinfo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - rdkit=2026.03.5
+  - scikit-learn=1.7.2
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - joblib
+  - cclib
+  - jupyterlab
+  - ipykernel
+  - pandoc

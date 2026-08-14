@@ -1,0 +1,220 @@
+smiles: C1COCCO1
+Zero-point correction=                           0.121849 (Hartree/Particle)
+Thermal correction to Energy=                    0.127070
+Thermal correction to Enthalpy=                  0.128014
+Thermal correction to Gibbs Free Energy=         0.093440
+Sum of electronic and zero-point Energies=           -307.630058
+Sum of electronic and thermal Energies=              -307.624837
+Sum of electronic and thermal Enthalpies=            -307.623893
+Sum of electronic and thermal Free Energies=         -307.658467
+C     -1.1752820000   -0.7364660000   -0.1928400000
+C     -1.1752820000    0.7364660000    0.1928400000
+O     -0.0000000000    1.3833500000   -0.2909380000
+C      1.1752820000    0.7364660000    0.1928400000
+C      1.1752820000   -0.7364660000   -0.1928400000
+O      0.0000000000   -1.3833500000    0.2909380000
+H     -1.2302380000   -0.8354600000   -1.2871230000
+H     -2.0248300000   -1.2586060000    0.2523320000
+H     -1.2302380000    0.8354600000    1.2871230000
+H     -2.0248300000    1.2586050000   -0.2523320000
+H      1.2302380000    0.8354600000    1.2871230000
+H      2.0248300000    1.2586060000   -0.2523320000
+H      2.0248300000   -1.2586060000    0.2523320000
+H      1.2302380000   -0.8354600000   -1.2871230000
+
+
+smiles: CS(=O)C
+Zero-point correction=                           0.078795 (Hartree/Particle)
+Thermal correction to Energy=                    0.084516
+Thermal correction to Enthalpy=                  0.085460
+Thermal correction to Gibbs Free Energy=         0.050389
+Sum of electronic and zero-point Energies=           -553.189153
+Sum of electronic and thermal Energies=              -553.183432
+Sum of electronic and thermal Enthalpies=            -553.182488
+Sum of electronic and thermal Free Energies=         -553.217559
+C     -1.3700620000   -0.8132720000    0.1847880000
+S      0.0000000000    0.2338150000   -0.4436730000
+O     -0.0000000000    1.5004480000    0.3860900000
+C      1.3700620000   -0.8132720000    0.1847880000
+H     -1.2744050000   -0.9137150000    1.2669420000
+H     -2.2955680000   -0.2931180000   -0.0602370000
+H     -1.3453630000   -1.7858460000   -0.3104040000
+H      2.2955680000   -0.2931180000   -0.0602370000
+H      1.3453630000   -1.7858460000   -0.3104040000
+H      1.2744050000   -0.9137150000    1.2669420000
+
+
+smiles: C(CCl)Cl
+Zero-point correction=                           0.058081 (Hartree/Particle)
+Thermal correction to Energy=                    0.063002
+Thermal correction to Enthalpy=                  0.063946
+Thermal correction to Gibbs Free Energy=         0.029059
+Sum of electronic and zero-point Energies=           -999.043422
+Sum of electronic and thermal Energies=              -999.038501
+Sum of electronic and thermal Enthalpies=            -999.037557
+Sum of electronic and thermal Free Energies=         -999.072443
+C     -0.4881710000   -0.5793050000   -0.0000000000
+C      0.4881710000    0.5793050000   -0.0000000000
+Cl     2.1847790000   -0.0702890000    0.0000000000
+Cl    -2.1847790000    0.0702890000    0.0000000000
+H     -0.3826780000   -1.1940000000    0.8907140000
+H     -0.3826780000   -1.1940000000   -0.8907140000
+H      0.3826780000    1.1940000000    0.8907140000
+H      0.3826780000    1.1939990000   -0.8907140000
+
+
+smiles: Fc1ccccc1
+Zero-point correction=                           0.091765 (Hartree/Particle)
+Thermal correction to Energy=                    0.096939
+Thermal correction to Enthalpy=                  0.097883
+Thermal correction to Gibbs Free Energy=         0.062924
+Sum of electronic and zero-point Energies=           -331.488429
+Sum of electronic and thermal Energies=              -331.483255
+Sum of electronic and thermal Enthalpies=            -331.482310
+Sum of electronic and thermal Free Energies=         -331.517270
+F      2.2827570000    0.0000000000    0.0000000000
+C      0.9258890000    0.0000000000   -0.0000000000
+C      0.2600260000   -1.2159490000   -0.0000000000
+C     -1.1342720000   -1.2066780000   -0.0000000000
+C     -1.8333090000    0.0000000000    0.0000000000
+C     -1.1342720000    1.2066780000    0.0000000000
+C      0.2600260000    1.2159490000   -0.0000000000
+H      0.8262390000   -2.1389360000   -0.0000000000
+H     -1.6725520000   -2.1474970000   -0.0000000000
+H     -2.9167160000    0.0000000000    0.0000010000
+H     -1.6725520000    2.1474970000    0.0000000000
+H      0.8262390000    2.1389360000   -0.0000000000
+
+
+smiles: CN(C)C=O
+Zero-point correction=                           0.101796 (Hartree/Particle)
+Thermal correction to Energy=                    0.107948
+Thermal correction to Enthalpy=                  0.108893
+Thermal correction to Gibbs Free Energy=         0.072563
+Sum of electronic and zero-point Energies=           -248.488512
+Sum of electronic and thermal Energies=              -248.482359
+Sum of electronic and thermal Enthalpies=            -248.481415
+Sum of electronic and thermal Free Energies=         -248.517745
+C     -1.5900580000   -0.7638550000    0.0000740000
+N     -0.3446560000   -0.0189710000   -0.0002880000
+C     -0.4226910000    1.4334820000    0.0000320000
+C      0.8648570000   -0.6461390000   -0.0000330000
+O      1.9511010000   -0.0977470000    0.0000690000
+H     -2.1872640000   -0.5284340000    0.8879620000
+H     -1.3777240000   -1.8341730000    0.0009230000
+H     -2.1871040000   -0.5298300000   -0.8883000000
+H     -0.9531800000    1.7904610000   -0.8891640000
+H     -0.9537010000    1.7899680000    0.8891260000
+H      0.5898690000    1.8325220000    0.0004340000
+H      0.7602420000   -1.7466700000    0.0000390000
+
+
+smiles: C1CCOC1
+Zero-point correction=                           0.116138 (Hartree/Particle)
+Thermal correction to Energy=                    0.121125
+Thermal correction to Enthalpy=                  0.122069
+Thermal correction to Gibbs Free Energy=         0.088153
+Sum of electronic and zero-point Energies=           -232.402661
+Sum of electronic and thermal Energies=              -232.397674
+Sum of electronic and thermal Enthalpies=            -232.396730
+Sum of electronic and thermal Free Energies=         -232.430646
+C      0.3052880000    0.7049340000   -0.9957920000
+C     -0.3052880000   -0.7049340000   -0.9957920000
+C      0.0000000000   -1.1770250000    0.4289900000
+O      0.0000000000   -0.0000000000    1.2516810000
+C      0.0000000000    1.1770250000    0.4289900000
+H     -0.1202980000    1.3620770000   -1.7567830000
+H      1.3860570000    0.6511420000   -1.1581380000
+H     -1.3860570000   -0.6511420000   -1.1581380000
+H      0.1202980000   -1.3620770000   -1.7567830000
+H      0.9869200000   -1.6542990000    0.4861800000
+H     -0.7430310000   -1.8752440000    0.8228290000
+H     -0.9869200000    1.6542990000    0.4861800000
+H      0.7430310000    1.8752440000    0.8228290000
+
+
+smiles: CC1=CC=CC=C1
+Zero-point correction=                           0.127175 (Hartree/Particle)
+Thermal correction to Energy=                    0.132543
+Thermal correction to Enthalpy=                  0.133487
+Thermal correction to Gibbs Free Energy=         0.098220
+Sum of electronic and zero-point Energies=           -271.511696
+Sum of electronic and thermal Energies=              -271.506328
+Sum of electronic and thermal Enthalpies=            -271.505384
+Sum of electronic and thermal Free Energies=         -271.540651
+C     -2.4235290000    0.0000000000    0.0093760000
+C     -0.9127630000    0.0000000000   -0.0112150000
+C     -0.1941580000   -1.2005500000   -0.0087300000
+C      1.1996460000   -1.2035430000    0.0020180000
+C      1.9026280000   -0.0000000000    0.0083670000
+C      1.1996460000    1.2035430000    0.0020180000
+C     -0.1941580000    1.2005500000   -0.0087300000
+H     -2.8019210000   -0.0000010000    1.0372870000
+H     -2.8288930000   -0.8839900000   -0.4885640000
+H     -2.8288930000    0.8839910000   -0.4885620000
+H     -0.7315460000   -2.1436740000   -0.0177790000
+H      1.7360850000   -2.1461060000    0.0015530000
+H      2.9867490000   -0.0000000000    0.0136660000
+H      1.7360850000    2.1461060000    0.0015530000
+H     -0.7315460000    2.1436740000   -0.0177790000
+
+
+smiles: CC#N
+Zero-point correction=                           0.045150 (Hartree/Particle)
+Thermal correction to Energy=                    0.048761
+Thermal correction to Enthalpy=                  0.049706
+Thermal correction to Gibbs Free Energy=         0.022171
+Sum of electronic and zero-point Energies=           -132.751051
+Sum of electronic and thermal Energies=              -132.747439
+Sum of electronic and thermal Enthalpies=            -132.746495
+Sum of electronic and thermal Free Energies=         -132.774029
+C      0.0000000000   -0.0000000000   -1.1757600000
+C     -0.0000000000    0.0000000000    0.2804020000
+N     -0.0000000000    0.0000000000    1.4330050000
+H     -0.0000000000    1.0246580000   -1.5529630000
+H      0.8873800000   -0.5123290000   -1.5529630000
+H     -0.8873800000   -0.5123290000   -1.5529630000
+
+
+smiles: C1=CC=C(C=C1)Cl
+Zero-point correction=                           0.090599 (Hartree/Particle)
+Thermal correction to Energy=                    0.096109
+Thermal correction to Enthalpy=                  0.097053
+Thermal correction to Gibbs Free Energy=         0.060807
+Sum of electronic and zero-point Energies=           -691.843690
+Sum of electronic and thermal Energies=              -691.838180
+Sum of electronic and thermal Enthalpies=            -691.837236
+Sum of electronic and thermal Free Energies=         -691.873482
+C      2.2725290000    0.0000000000    0.0000000000
+C      1.5726870000   -1.2054030000    0.0000000000
+C      0.1788290000   -1.2135510000   -0.0000000000
+C     -0.5022850000    0.0000000000   -0.0000000000
+C      0.1788290000    1.2135510000   -0.0000000000
+C      1.5726870000    1.2054030000    0.0000000000
+Cl    -2.2628180000    0.0000000000    0.0000000000
+H      3.3561100000    0.0000000000    0.0000020000
+H      2.1088580000   -2.1475650000   -0.0000010000
+H     -0.3727880000   -2.1449430000   -0.0000020000
+H     -0.3727880000    2.1449430000   -0.0000020000
+H      2.1088580000    2.1475650000   -0.0000000000
+
+
+smiles: CCO
+Zero-point correction=                           0.079680 (Hartree/Particle)
+Thermal correction to Energy=                    0.083957
+Thermal correction to Enthalpy=                  0.084902
+Thermal correction to Gibbs Free Energy=         0.054301
+Sum of electronic and zero-point Energies=           -155.015366
+Sum of electronic and thermal Energies=              -155.011089
+Sum of electronic and thermal Enthalpies=            -155.010145
+Sum of electronic and thermal Free Energies=         -155.040745
+C      1.2162140000   -0.2414110000   -0.0215270000
+C     -0.0795350000    0.5571440000    0.0469050000
+O     -1.2431470000   -0.2575440000   -0.1077770000
+H      2.0828890000    0.4227890000    0.0522510000
+H      1.2803540000   -0.7919920000   -0.9632490000
+H      1.2805950000   -0.9621170000    0.8008100000
+H     -0.1269080000    1.2788030000   -0.7712210000
+H     -0.1308430000    1.1232810000    0.9869220000
+H     -1.2609870000   -0.9048070000    0.6044290000
+

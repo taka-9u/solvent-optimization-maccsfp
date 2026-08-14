@@ -1,0 +1,25 @@
+# generated files
+output/*
+!output/.gitkeep
+
+# note: qm/coords.txt is part of the deposited dataset and IS tracked
+
+# word export (ipynb_to_doc.sh)
+word/
+
+# notebooks
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.py[cod]
+
+# gaussian scratch files
+*.chk
+*.rwf
+*.d2e
+*.int
+*.skr
+
+# os
+.DS_Store
