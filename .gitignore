@@ -1,25 +1,20 @@
-# generated files
-output/*
-!output/.gitkeep
+# macOS
+.DS_Store
+._*
 
-# note: qm/coords.txt is part of the deposited dataset and IS tracked
-
-# word export (ipynb_to_doc.sh)
-word/
-
-# notebooks
-.ipynb_checkpoints/
-
-# python
+# Python
 __pycache__/
 *.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
 
-# gaussian scratch files
-*.chk
-*.rwf
-*.d2e
-*.int
-*.skr
+# Node (solopt_ui/frontend)
+node_modules/
+build/
 
-# os
-.DS_Store
+# 環境変数・秘密情報（最重要）
+.env
+.env.*
+*.key
+*.pem
