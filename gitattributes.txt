@@ -1,0 +1,25 @@
+### このファイルは .gitattributes としてリポジトリ直下に置いてください
+### （GitHub の Web UI ではファイル名に「.gitattributes」と入力）
+
+# ---- 改行コードの正規化（Mac / Windows 混在対策）----
+* text=auto
+
+# ---- Zenodo / GitHub のアーカイブ（zip）から除外するもの ----
+# リポジトリには残るが、DOI が付くアーカイブには含まれない
+.gitattributes      export-ignore
+.gitignore          export-ignore
+.DS_Store           export-ignore
+**/.DS_Store        export-ignore
+__pycache__/        export-ignore
+**/__pycache__/     export-ignore
+*.pyc               export-ignore
+node_modules/       export-ignore
+**/node_modules/    export-ignore
+
+# ---- Jupyter ノートブックを差分表示しやすくする（任意）----
+*.ipynb  diff=jupyternotebook
+
+# ---- 大きなバイナリを diff 対象外にする ----
+*.emf    binary
+*.png    -diff
+*.pdf    -diff
